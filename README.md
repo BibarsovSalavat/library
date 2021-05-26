@@ -21,16 +21,16 @@
     from password import Password
 
     for i in range(0, 10):
-        print(Password(length = 12, strong = 'max'))
+        print(Password(length = 12, strong = 'medium'))
 ##### Результат:
->[T$M$W~0("]7
->0b<=~%Pfr<5m
->>F5}{VOu$(,(
->dE2,`\/:x6!P
->Mk_Aa.m]e6G%
->C^`S2!g+}r7i
->2BrOSh0KU^>p
->1=t^fiyQb{W\
->25(:>|$+EaXe
->~~a!#mC]2b]@
+>bg312sb1chc8
+>kb1orvbw8ikw
+>d05qh2rsd9by
+>8b077lyg4r8e
+>n1114bmii0bc
+>x9lxmpwixtog
+>mlkx9f5a8ovl
+>kh8y7wyvwmru
+>iglg67slqfcf
+>pa0c7h2drare
 ---
